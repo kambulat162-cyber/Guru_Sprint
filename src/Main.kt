@@ -5,4 +5,6 @@ fun main() {
     val string = "Hello World"
     val bool:Boolean
     println("Сделал")
+    println("Привет хаутишка")
+
 }
