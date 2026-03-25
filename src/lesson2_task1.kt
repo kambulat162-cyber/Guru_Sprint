@@ -1,6 +1,6 @@
 fun main(){
     println("Введите возвраст: ")
-    val age = readLine()!!.toInt()
+    val age = readln().toInt()
     val bool = age >=AGE_OF_MAJORITY
     println(bool)
 
