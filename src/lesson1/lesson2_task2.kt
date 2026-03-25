@@ -2,7 +2,7 @@ package lesson1
 
 fun main(){
     println("Введите ваш возвраст: ")
-    val age = readLine()!!.toInt()
+    val age = readln().toInt()
     val message = if (age >= 18) {
         println("Добро пожаловать!")
     }
