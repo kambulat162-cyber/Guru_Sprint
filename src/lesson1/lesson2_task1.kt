@@ -1,3 +1,5 @@
+package lesson1
+
 fun main(){
     println("Введите возвраст: ")
     val age = readln().toInt()
